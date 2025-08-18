@@ -7,8 +7,6 @@
 🎓 I'm skilled in Python,C,C++
 <br/>
 
-## 🌐 Socials:
-[![LinkedIn](https://www.linkedin.com/in/kittu-chikara-9b8349334/) 
 
 
 
