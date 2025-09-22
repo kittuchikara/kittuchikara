@@ -1,7 +1,7 @@
 # Hi there 👋 I am Kittu Chikara !
 
 # 💫 About Me:
-🎓 I am a second year engeneering student at KIET GROUP OF INSTITUTION**. <br> 
+🎓 I am a third year engeneering student at KIET GROUP OF INSTITUTION**. <br> 
 🌱 I’m currently learning *Data Science*. <br>
 🎓 Seeking an internship to apply and enhance my skills.<br>
 🎓 I'm skilled in Python,C,C++
